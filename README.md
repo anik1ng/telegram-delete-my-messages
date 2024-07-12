@@ -1,6 +1,15 @@
 # telegram-delete-my-messages
 Python script for delete / show all your messages or reactions from groups and supergroups.
 
+## Functionality
+
+* Show all your groups or supergroups
+* Show all your messages in groups/supergroups
+* Show all your reactions in groups/supergroups
+* Delete all your messages in selected group/supergroup
+* Delete all your reactions in selected group/supergroup
+
+
 ## How to use?
 
 ### 1. Get Telegram credentials
